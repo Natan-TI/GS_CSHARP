@@ -1,0 +1,14 @@
+C:\Users\Natan\source\repos\GS_CSHARP\bin\Debug\net8.0\GS_CSHARP.exe
+C:\Users\Natan\source\repos\GS_CSHARP\bin\Debug\net8.0\GS_CSHARP.deps.json
+C:\Users\Natan\source\repos\GS_CSHARP\bin\Debug\net8.0\GS_CSHARP.runtimeconfig.json
+C:\Users\Natan\source\repos\GS_CSHARP\bin\Debug\net8.0\GS_CSHARP.dll
+C:\Users\Natan\source\repos\GS_CSHARP\bin\Debug\net8.0\GS_CSHARP.pdb
+C:\Users\Natan\source\repos\GS_CSHARP\obj\Debug\net8.0\GS_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natan\source\repos\GS_CSHARP\obj\Debug\net8.0\GS_CSHARP.AssemblyInfoInputs.cache
+C:\Users\Natan\source\repos\GS_CSHARP\obj\Debug\net8.0\GS_CSHARP.AssemblyInfo.cs
+C:\Users\Natan\source\repos\GS_CSHARP\obj\Debug\net8.0\GS_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Natan\source\repos\GS_CSHARP\obj\Debug\net8.0\GS_CSHARP.dll
+C:\Users\Natan\source\repos\GS_CSHARP\obj\Debug\net8.0\refint\GS_CSHARP.dll
+C:\Users\Natan\source\repos\GS_CSHARP\obj\Debug\net8.0\GS_CSHARP.pdb
+C:\Users\Natan\source\repos\GS_CSHARP\obj\Debug\net8.0\GS_CSHARP.genruntimeconfig.cache
+C:\Users\Natan\source\repos\GS_CSHARP\obj\Debug\net8.0\ref\GS_CSHARP.dll

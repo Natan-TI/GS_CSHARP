@@ -1,0 +1,20 @@
+2025-06-02 23:58:45 | ErroValidacao | Falha de validação: DataHora fora do intervalo permitido.
+2025-06-02 23:59:01 | ErroValidacao | Erro ao converter data/hora para relatório: String '12 21' was not recognized as a valid DateTime.
+2025-06-02 23:59:16 | SimulacaoErro | Data inválida forçada: 99/99/9999
+2025-06-02 23:59:25 | SimulacaoErro | Campo vazio simulado.
+2025-06-02 23:59:31 | SimulacaoErro | Número inválido simulado: ddfw
+2025-06-03 00:00:27 | ErroValidacao | Falha de validação: DataHora fora do intervalo permitido.
+2025-06-03 20:47:15 | CadastroFalha | Falha cadastrada: ID=1, Sensor=SensorA, Tensao=250
+2025-06-03 20:47:15 | GeraAlerta | Tensão acima do limite: 250V no sensor SensorA
+2025-06-03 20:47:37 | ErroValidacao | Falha de validação: DataHora fora do intervalo permitido.
+2025-06-03 20:54:56 | GeraAlerta | Usuário criado: 'admin' (ID=1)
+2025-06-03 20:55:06 | GeraAlerta | Login bem-sucedido para usuário 'Admin'
+2025-06-03 20:55:18 | ErroValidacao | Falha de login: credenciais inválidas para 'admin'
+2025-06-03 20:55:23 | ErroValidacao | Falha de login: credenciais inválidas para 'jdjwadawd'
+2025-06-03 20:55:28 | ErroValidacao | Falha de login: credenciais inválidas para ''
+2025-06-03 20:55:30 | ErroValidacao | Usuário excedeu tentativas de login
+2025-06-03 20:55:50 | ErroValidacao | Falha de login: credenciais inválidas para 'admin'
+2025-06-03 20:55:53 | ErroValidacao | Falha de login: credenciais inválidas para ''
+2025-06-03 20:55:58 | GeraAlerta | Login bem-sucedido para usuário 'admin'
+2025-06-03 20:56:23 | CadastroFalha | Falha cadastrada: ID=2, Sensor=SensorA, Tensao=1033
+2025-06-03 20:56:23 | GeraAlerta | Tensão acima do limite: 1033V no sensor SensorA
